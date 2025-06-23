@@ -1,1 +1,2 @@
+# Modulo-1-EBAC
 Simple scene, created in Unity engine, using primitive objects and lighting. Cubes, Spheres, Capsules, Planes, Cylinders and other primitive 3D objects were used, accessible through the menu: GameObject > 3d Object >. The scene was composed without many details, but with attention to creativity, being an important step for creating prototypes using this technique. Later, more objects were added to decorate the scene. Lights were added to the objects in a harmonious way.
